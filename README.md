@@ -1,2 +1,2 @@
 # BabyBG.github.io
-Website for learning Computer Science
+Website to store CS articles and links
